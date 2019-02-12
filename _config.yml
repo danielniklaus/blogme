@@ -4,8 +4,8 @@
 
 # Site
 title: Diary Of Code
-subtitle:
-description:
+subtitle: Daniel Niklaus
+description: Hi, I'm Daniel Niklaus Sitorus. I am a programmer who is interested in mobile programmers.
 keywords:
 author: Daniel
 language: en
@@ -79,3 +79,9 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# search:
+#   path: search.xml
+#   field: all
+#   content: true
+
